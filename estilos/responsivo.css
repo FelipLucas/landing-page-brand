@@ -20,7 +20,7 @@
     }
     
     .menu-img img{
-        width: 70px;
+        width: 120px;
     }
 
     .div-links nav{
@@ -28,7 +28,7 @@
     }
 
     .div-links a{
-        font-size: 12px;
+        font-size: 16px;
     }
     .links-img1{
         width: 30px;
@@ -36,7 +36,7 @@
         margin-right: 2rem;
     }
     .links-img2{
-        width: 70px;
+        width: 120px;
         margin-right: 3rem;
     }
 
@@ -52,7 +52,7 @@
     }
 
     .img-free{
-        width: 85px;
+        width: 130px;
         position: absolute;
         top: 0;
         right: 0;
