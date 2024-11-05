@@ -191,3 +191,23 @@
         flex-direction: column;
     }
 }
+@media only screen and (max-width: 700px){
+    .menu-section{
+        justify-content: center;
+    }
+    nav a{
+        display: none;
+    }
+    .links-img1{
+        margin-left: 4rem;
+    }
+    .container-section p{
+        font-size: 25px;
+    }
+    .box-div{
+        width: 80%;
+    }
+    .boxes-final img{
+        width: 100%;
+    }
+}
